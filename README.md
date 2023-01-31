@@ -3,7 +3,7 @@
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Bacharel em Sistemas de Informação pela <a href="https://www.ufs.br/">Universidade Federal de Sergipe</a>.
-- 💼 &nbsp; Trabalhando como **DESENVOLVEDOR JAVA** na <a href="https://www.linkedin.com/company/esigsoftware/mycompany/">ESIG</a>.
+- 💼 &nbsp; Trabalhando como **DESENVOLVEDOR JAVA**.
 - :computer: &nbsp; Experiência com Java, JSF, Hibernate e PostgreSQL.
 - 🌱 &nbsp; Tenho interesse e sigo aprendendo mais sobre Spring, JavaScript, AWS e Angular.
 
